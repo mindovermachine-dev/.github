@@ -60,22 +60,22 @@ Mind over Machine is:
 
 ## Open Source stewardship
 
-The FOSS projects we drive are run by the same standards, so movinng from one project to another should feel familiar; Here are some of the standards you should expect from all FOSS projects we steer:
+The FOSS projects we drive are run by the same standards, ensuring that moving from one project to another feels completely familiar. Here are the standards you can expect from all FOSS projects we steer:
 
-- [x] Adhere to Semantic Versioning
-- [x] Development environment is containerized (Typically using Dev Containers - or simmilar)
-- [x] Pipeline is containerized and executable from the development environment (shift-left)
-- [x] Supports trunk-based development (Pull Requests are supported but optional)
-- [x] Supports non-blocking reviews (Reviews are enabled an required for _release_ but not for _trunk_)
-- [x] Full traceability, all commits on `main` are tied to issues, All AI chats/results are tied to issues
-- [x] Has support for Collaborative Agnetic AI through plenty and useful instructions
-- [x] Has support for signed commits
-- [x] Strive for mainly "Detroit school" statefull unit test style as opposed to a "London school" interface focues and mock-heavy approach. To level the playing field for humans and machines
-- [x] Test data reqquired to run tests is maintained and version-controlled
-- [x] Are highly componentized, striving for feature-completeness in order support low-cost stewardship and to avoid token-run-wild budgets on unnecessarily large codebases
-- [x] Are managed by an open proces utilizing a kanban up-stream board (≈roadmaps) and down-stream boards(≈Minimize Work In Progress)
-- [x] Has a didicated end-user voice channel (typically _discussions_) and assignment workflow (typically _issues_)
-- [x] Has support for install via package mangers
+- [x]   **Semantic Versioning:** Strict adherence to Semantic Versioning (SemVer) for predictable releases.
+- [x]   **Containerized Development:** Development environments are containerized (typically utilizing Dev Containers or similar setups).
+- [x]   **Containerized Pipelines:** CI/CD pipelines are containerized and fully executable directly from within the local development environment (supporting a true shift-left paradigm).
+- [x]   **Trunk-Based Development:** Full support for trunk-based development (Pull Requests are supported and welcomed, but optional).
+- [x]   **Non-Blocking Reviews:** Support for non-blocking reviews (reviews are enabled and required for formal releases, but not for merging to the trunk).
+- [x]   **Full Traceability:** All commits on `main` are tied to tracked issues, and all generative AI chats/results utilized in development are fully documented and tied to issues.
+- [x]   **Agentic AI Ready:** Comprehensive support for Collaborative Agentic AI through rich, actionable, and structured instructions.
+- [x]   **Cryptographic Security:** Built-in support and requirement for GPG-signed commits.
+- [x]   **Detroit-Style Testing:** A strong preference for "Detroit school" (classical/stateful) unit testing over a mock-heavy "London school" approach. This ensures tests are stable, intuitive, and level the playing field for both humans and AI agents.
+- [x]   **Managed Test Data:** All test data required to run the test suite is actively maintained, stable, and version-controlled.
+- [x]   **Highly Componentized:** Codebases are highly modular, actively striving for feature-completeness to support low-cost stewardship and prevent "token-run-wild" budgets on bloated codebases.
+- [x]   **Open Project Management:** Projects are managed openly using an upstream Kanban board (representing the roadmap) and downstream boards (designed to minimize Work in Progress).
+- [x]   **Dedicated Channels:** A dedicated end-user voice channel is always available (typically GitHub Discussions), paired with a clear, active issue-assignment workflow.
+- [x]   **Modern Distribution:** Built-in support for seamless installation via standard package managers.
 
 ## Learn More
 
