@@ -58,6 +58,25 @@ Mind over Machine is:
 - 🏛️ **A non-profit foundation** — structured so it cannot be sold or diverted from its purpose
 - 💡 **Self-financed** — through membership, consultancy, and project collaboration
 
+## Open Source stewardship
+
+The FOSS projects we drive are run by the same standards, so movinng from one project to another should feel familiar; Here are some of the standards you should expect from all FOSS projects we steer:
+
+- [x] Adhere to Semantic Versioning
+- [x] Development environment is containerized (Typically using Dev Containers - or simmilar)
+- [x] Pipeline is containerized and executable from the development environment (shift-left)
+- [x] Supports trunk-based development (Pull Requests are supported but optional)
+- [x] Supports non-blocking reviews (Reviews are enabled an required for _release_ but not for _trunk_)
+- [x] Full traceability, all commits on `main` are tied to issues, All AI chats/results are tied to issues
+- [x] Has support for Collaborative Agnetic AI through plenty and useful instructions
+- [x] Has support for signed commits
+- [x] Strive for mainly "Detroit school" statefull unit test style as opposed to a "London school" interface focues and mock-heavy approach. To level the playing field for humans and machines
+- [x] Test data reqquired to run tests is maintained and version-controlled
+- [x] Are highly componentized, striving for feature-completeness in order support low-cost stewardship and to avoid token-run-wild budgets on unnecessarily large codebases
+- [x] Are managed by an open proces utilizing a kanban up-stream board (≈roadmaps) and down-stream boards(≈Minimize Work In Progress)
+- [x] Has a didicated end-user voice channel (typically _discussions_) and assignment workflow (typically _issues_)
+- [x] Has support for install via package mangers
+
 ## Learn More
 
 📖 Our full documentation — including our manifesto, governance, and methodology — is openly available at **[docs.mindovermachine.dk](https://docs.mindovermachine.dk)**.
