@@ -16,7 +16,9 @@
 
 ## What We Are
 
-**Mind over Machine** is a non-profit business foundation — a combined **think tank**, **laboratory** and **Community of Practice**.
+**Mind over Machine** is a combined **think tank**, **laboratory** and **Community of Practice**.
+
+We are a not-for-profit commercial foundation — registered as such ([DK46659287](https://datacvr.virk.dk/enhed/virksomhed/46659287)) with the Danish Business Authority and recognized as such by the department of civil affairs under the Danish Ministry of Justice. Consequently, our Software Foundation is eligible as **OSS Stewards** as the role is defined in Article 14 in EU Cyber Resilience Act. 
 
 Based on long-term systems thinking, we explore and test principles and techniques that can turn software and development processes into regenerative systems. **Regenerative** defined as a complex system in balance, one that doesn't run wild and the doesn'ty slow down. Like a balanced ecosystem.
 
