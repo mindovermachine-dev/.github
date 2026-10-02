@@ -1,27 +1,44 @@
 <div align="center">
-  <a href="https://docs.mindovermachine.dk">
+  <a href="https://www.mindovermachine.dk">
     <img src="https://raw.githubusercontent.com/mindovermachine-dev/docs.mindovermachine/main/astro/src/assets/mom-logo-text-transparent.png" alt="Mind over Machine logo" width="400"/>
   </a>
 
   <h1>Mind over Machine</h1>
   <p><em>The Foundation for Regenerative Software Development</em></p>
 
-  [![Documentation](https://img.shields.io/badge/docs-mindovermachine.dk-blue?style=flat-square)](https://docs.mindovermachine.dk)
+  [![Documentation](https://img.shields.io/badge/docs-mindovermachine.dk-blue?style=flat-square)](https://docs.mindovermachine.dk)&nbsp;
+  [![Documentation](https://img.shields.io/badge/www-mindovermachine.dk-green?style=flat-square)](https://www.mindovermachine.dk)&nbsp;
+  [![Documentation](https://img.shields.io/badge/mindovermachine-matrix.org-red?style=flat-square)](https://matrix.to/#/#mindovermachine:matrix.org)
+
 </div>
 
 ---
 
 ## What We Are
 
-**Mind over Machine** is a non-profit business foundation — a combined think tank and laboratory.
+**Mind over Machine** is a non-profit business foundation — a combined **think tank**, **laboratory** and **Community of Practice**.
 
-Based on long-term systems thinking, we explore and test principles and techniques that can turn software into a regenerative tool.
+Based on long-term systems thinking, we explore and test principles and techniques that can turn software and development processes into regenerative systems. **Regenerative** defined as a complex system in balance, one that doesn't run wild and the doesn'ty slow down. Like a balanced ecosystem.
 
-In the Laboratory, we develop concrete Open Source software systems for our members and customers, which are based on these principles and techniques. We collect feedback and continuously adjust our assumptions, principles and techniques, which we share openly.
+- **The Think Tank** 
+  - Reachable on: [hey@mindovermachine.dk](mailto:hey@mindovermachine.dk)
+  - Vocal on: [www.mindovermachine.dk](https://www.mindovermachine.dk)
+- **Community of Practice**
+  - Reachable on [`#mom-office-hours:matrix.org`](https://matrix.to/#/#mom-office-hours:matrix.org)
+  - Vocal on: [mindovermachine.dk/events](https://www.mindovermachine.dk/events)
+- **Laboratory**
+  - Reachable on: [`#mom-tech-talks:matrix.or`](https://matrix.to/#/#mom-tech-talks:matrix.org)
+  - Vocal on: [docs.mindovermachine.dev](docs.mindovermachine.dev)
+
+In the Laboratory, we develop concrete Open Source Software systems for our [**MoM FOSS Alliance**](https://www.mindovermachine.dk/membership/), clients and for humanity in general.  Which are based on or regenerative principles and techniques. We collect feedback and continuously adjust our assumptions, principles and techniques, which we share openly.
 
 ## Our Mission
 
-> To search for and spread a new model for how software can contribute to a regenerative paradigm, which overall contributes _positively_ to people and the world.
+**To search for and spread a new model for how software can contribute to a regenerative paradigm, which overall contributes _positively_ to people and the world.**
+
+Are you a software developer — or someone operates in the realm of software development — then ask yourself this:
+
+> _"Am I part of the Solution? or am I part of the problem?"_
 
 We are not _only_ focused on the value that can be priced on the basis of a cost-benefit analysis. We _also_ aim to include the value that is not priced in conventional economic models — the value software creates for **society**, **organizations**, **companies**, **end-users** and **developers** alike.
 
